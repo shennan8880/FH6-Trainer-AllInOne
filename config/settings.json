@@ -1,0 +1,19 @@
+{
+  "app": { "name": "FH6 Trainer", "version": "2.8" },
+  "game": {
+    "process": "ForzaHorizon6.exe",
+    "supportedVersion": "1.626.354.0",
+    "attachTimeoutMs": 60000
+  },
+  "features": {
+    "unlimitedMoney": { "hotkey": "F1", "value": 999999999 },
+    "speedBoost": { "hotkey": "F2", "min": 1.0, "max": 10.0 },
+    "noDamage": { "hotkey": "F3" },
+    "unlockAllCars": { "hotkey": "F4", "vehicleCount": 812 },
+    "teleport": { "hotkey": "F5" },
+    "instantWin": { "hotkey": "F6" },
+    "skipCheckpoint": { "hotkey": "F7" },
+    "xpMultiplier": { "hotkey": "F8", "options": [5, 10, 100] }
+  },
+  "overlay": { "toggleKey": "INSERT", "theme": "dark" }
+}

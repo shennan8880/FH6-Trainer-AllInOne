@@ -1,0 +1,29 @@
+# FH6 Trainer - Usage Guide
+
+## Quick Start
+1. Launch Forza Horizon 6.
+2. Run FH6Trainer.exe as Administrator.
+3. Press INSERT to open the menu.
+4. Toggle features with F1-F8.
+
+## Feature Hotkeys
+- F1: Unlimited money (freeze at 999,999,999)
+- F2: Speed boost (1x-10x slider in menu)
+- F3: No damage
+- F4: Unlock all 812 cars
+- F5: Teleport to waypoint
+- F6: Instant race win
+- F7: Skip checkpoint
+- F8: XP multiplier (5x/10x/100x)
+
+## Teleport
+1. Set a waypoint on the in-game map.
+2. Press F5 - the vehicle jumps to that position.
+
+## Game Updates
+When FH6 patches, offsets shift. Run the offset scanner or wait for an update. Config stores both static offsets and resilient patterns.
+
+## Safety
+- Single-player use only.
+- The trainer attaches externally and never writes to game files.
+- Online use risks a ban - keep it offline.

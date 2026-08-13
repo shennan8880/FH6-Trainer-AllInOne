@@ -1,0 +1,19 @@
+# FH6 Trainer - FAQ
+
+## Trainer not attaching?
+Launch FH6 first, then run the trainer as Administrator. Check that the game version matches 1.626.354.0.
+
+## Features stopped working after update?
+Game patches shift memory offsets. Check for a trainer update or run the offset rescan.
+
+## Ban risk?
+Online use may result in a ban. Use in offline and solo events only.
+
+## Antivirus flags it?
+Memory tools trigger heuristic detection. Add the folder to exclusions and verify the hash on VirusTotal.
+
+## Unlock all cars reverted?
+Re-apply with F4 after restarting the game. Ownership flags reset on launch.
+
+## Crash on overlay open?
+Update GPU drivers. The ImGui overlay needs DirectX 11 support.

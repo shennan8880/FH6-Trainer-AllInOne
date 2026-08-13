@@ -1,0 +1,19 @@
+{
+  "gameVersion": "1.626.354.0",
+  "updated": "2026-08-13",
+  "offsets": {
+    "money": "0x03A5F218",
+    "speed": "0x02B1C440",
+    "damage": "0x03C8D110",
+    "carOwnership": "0x0412E800",
+    "position": "0x03D4F650",
+    "raceState": "0x03E1A220",
+    "checkpoint": "0x03F5B180",
+    "xp": "0x0402C990"
+  },
+  "patterns": {
+    "money": "48 8B ?? ?? 0F 28 ?? ?? F3 0F",
+    "speed": "F3 0F 10 ?? ?? 48 8D ?? ?? E8",
+    "position": "0F 28 ?? ?? 48 89 ?? ?? 74"
+  }
+}
